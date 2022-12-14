@@ -40,5 +40,5 @@ public class car_exercise_github {
 
 	}
 
-	Car car1 = new Car("Fiat", 500, 50);
+	car_exercise_github car1 = new car_exercise_github("Fiat", 500, 50);
 }
