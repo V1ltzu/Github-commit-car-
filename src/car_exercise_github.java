@@ -1,17 +1,17 @@
 
 public class car_exercise_github {
 
-
+	//These are the car's attributes
 	public String brand;
 	public int model;
 	public int amountOfFuel;
-
+	//All methods under main
 	public car_exercise_github(String brand, int model, int amountOfFuel) {
 		this.brand = brand;
 		this.model = model;
 		this.amountOfFuel = amountOfFuel;
 	}
-
+	//The methods
 	public void brake() {
 
 		System.out.println("Car is braking");
